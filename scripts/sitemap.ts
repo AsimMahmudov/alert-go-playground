@@ -15,7 +15,7 @@ export default async function handler(
 	const links = [{ url: PAGE.HOME, changefreq: "daily", priority: 1.0 }];
 
 	const stream = new SitemapStream({
-		hostname: "https://next-structure-seven.vercel.app/",
+		hostname: "https://alert-go-playground.vercel.app/",
 	});
 
 	res.writeHead(200, { "Content-Type": "application/xml" });

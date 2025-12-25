@@ -53,14 +53,14 @@ export const generateMetadata = ({
 
 // Дополнительная функция для структурированных данных
 
-// export const generateStructuredData = () => ({
-// 	'@context': 'https://schema.org',
-// 	'@type': 'WebSite',
-// 	'name': 'Alert-go', ////! Имя проекта
-// 	'url': 'https://next-structure-seven.vercel.app/', ////! url проекта
-// 	'potentialAction': {
-// 			'@type': 'SearchAction',
-// 			'target': 'https://next-structure-seven.vercel.app/search?q={search_term_string}', ////! Имя проекта
-// 			'query-input': 'required name=search_term_string'
-// 	}
-// });
+export const generateStructuredData = () => ({
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	'name': 'Alert-go', ////! Имя проекта
+	'url': 'https://alert-go-playground.vercel.app/', ////! url проекта
+	'potentialAction': {
+			'@type': 'SearchAction',
+			'target': 'https://alert-go-playground.vercel.app/search?q={search_term_string}', ////! Имя проекта
+			'query-input': 'required name=search_term_string'
+	}
+});

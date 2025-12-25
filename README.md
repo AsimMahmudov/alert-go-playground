@@ -1,13 +1,13 @@
 # ⚡ alert-go
 
 > Лёгкие, быстрые и кастомизируемые уведомления для веба.  
-> Аналог Sonner, но без зависимостей от React и всего **~2 КБ**.
+> Аналог Sonner, но без зависимостей от React и всего **~1.1 КБ**.
 
 [![Demo](https://img.shields.io/badge/Demo-Playground-blue?style=flat&logo=vercel)](https://alert-go.vercel.app)
 [![npm](https://img.shields.io/npm/v/alert-go?style=flat&color=cb3837)](https://www.npmjs.com/package/alert-go)
 [![Bundle Size](https://img.shields.io/bundlephobia/minzip/alert-go?style=flat&color=green)](https://bundlephobia.com/package/alert-go)
 
-![alert-go preview](https://via.placeholder.com/600x300/10b981/FFFFFF?text=alert-go+Demo)
+![alert-go preview](./public/scrin.png)
 
 ## ✨ Возможности
 
