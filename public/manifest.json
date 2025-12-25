@@ -1,0 +1,23 @@
+{
+	"name": "Alert-go",
+	"short_name": "Alert-go",
+	"description": "",
+	"lang": "ru-RU",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"icons": [
+		{
+			"src": "/image.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/image.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
